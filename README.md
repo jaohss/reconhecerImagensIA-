@@ -19,6 +19,6 @@
 
 - 🤖 As IA's generativas tem alta capacidade de ajudar e facilitar diversas atividades no cotidiano, desde de fazer análise de imagens, fazer slides para apresentação, escrita de texto/redação, ideias criativas de design e diversas outras funcionalidades.
 
-- 💭 Acredito firmemente que as IA's já vem agregando muito no processo de conhecimento e aprendizagem de diversas pessoas, porém ainda é necessário revisar algumas informações geradas pela mesma, uma vez que muitas informação não aparentem muitas vezes ser confiáveis. 
+- 💭 Acredito firmemente que as IA's já vem agregando muito no processo de conhecimento e aprendizagem de diversas pessoas, porém ainda é necessário revisar algumas informações geradas pela mesma, uma vez que muitas informações não aparentem muitas vezes serem confiáveis. 
 
-- 🖥️ Não acho que as IA's vão substituir algumas funções realizadas por humanos, mas sim ajudar e tornar algumas atividades maias rápidas.
+- 🖥️ Não acho que as IA's vão substituir as funções realizadas por humanos, mas sim ajudar e tornar algumas atividades mais rápidas e práticas.
